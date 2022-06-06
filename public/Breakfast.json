@@ -1,0 +1,164 @@
+[ 
+    {
+      "id": "1",
+      "name": "Begel and cream dheese",
+      "title": "“The texture of a food that needs to be chewed thoroughly before swallowing. Can be light and”",
+      "price": 125,
+      "type": "breakfast",
+      "ratings": [1,2,3,4],
+      "img": "https://i.ibb.co/Gs6Rw24/breakfast1.png"
+    },
+    {
+      "id": "2",
+      "name": "Breackfast sendwich",
+      "title": "“ Food that is cooked by submerging partially or fully into hot oil. Often results in a crispy or crunchy texture and golden color.”",
+      "price": 128,
+      "type": "breakfast",
+      "ratings": [1,2,3],
+      "img": "https://i.ibb.co/QKM3b1H/breakfast2.png"
+    },
+    {
+      "id": "3",
+      "name": "Baked Chiken",
+      "title": "“A food that has been steeped in liquid with another ingredient in order to extract the flavor of the ingredient. Often used with herbs.”",
+      "price": 135,
+      "type": "breakfast",
+      "ratings": [1,2,3,4,5],
+      "img": "https://i.ibb.co/sFkSLw2/breakfast3.png"
+    },
+    {
+      "id": "4",
+      "name": "Eggs Benedict",
+      "title": "“A firm, crisp texture often identified by the sharp, audible noise that the food makes when being”",
+      "price": 155,
+      "type": "breakfast",
+      "ratings": [1,2,3,4],
+      "img": "https://i.ibb.co/nbSnKYf/breakfast4.png"
+    },
+    {
+      "id": "5",
+      "name": "Toast Croissant Fried egg",
+      "title": "“ A texture brought on by the presence of many small bubbles, usually referring to carbonated”",
+      "price": 138,
+      "type": "breakfast",
+      "ratings": [1,2,3],
+      "img": "https://i.ibb.co/6YNFZ0k/breakfast5.png"
+    },
+    {
+      "id": "6",
+      "name": "Full Breakfast Fried Egg",
+      "title": "“A food (usually meat) that has been soaked in liquid containing flavorful ingredients like herbs, spices, vinegar, and oil.",
+      "price": 224,
+      "type": "breakfast",
+      "ratings": [1,2,3,4,5],
+      "img": "https://i.ibb.co/594drRt/breakfast6.png"
+    },
+    {
+      "id": "7",
+      "name": "Healthy Meal Plan",
+      "title": "“A viscous, sometimes sticky texture arising from the presence of moisture in a dense solid food.”",
+      "price": 170,
+      "type": "lunch",
+      "ratings": [1,2,3,4,5],
+      "img": "https://i.ibb.co/Gs6Rw24/breakfast1.png"
+    },
+    {
+      "id": "8",
+      "name": "Fried Chicken Bento",
+      "title": "“A succulent, tender texture characterized by the presence of liquid in a solid food.”",
+      "price": 199,
+      "type": "lunch",
+      "ratings": [1,2,3,4],
+      "img": "https://i.ibb.co/n3ZTX6N/lunch2.png"
+    },
+    {
+      "id": "9",
+      "name": "Tarragon Rubbed Salman",
+      "title": "“Food that has been cooked with dry heat in an oven or over a fire. Often results in a browned exterior and crisp coating.”",
+      "price": 178,
+      "type": "lunch",
+      "ratings": [1,2,3],
+      "img": "https://i.ibb.co/C0sSJCg/lunch3.png"
+    },
+    {
+      "id": "10",
+      "name": "Indian Lunch",
+      "title": "“ A food that has been introduced to bacteria, yeast, or another microorganism to produce organic acids, alcohols, or gases. May result in a pungent, biting flavor.”",
+      "price": 185,
+      "type": "lunch",
+      "ratings": [1,2,3,4],
+      "img": "https://i.ibb.co/thk5wZy/lunch4.png"
+    },
+    {
+      "id": "11",
+      "name": "Beff Steak",
+      "title": "“A food that was scalded in boiling water and then moved to cold water to stop cooking. Results in a softened texture.”",
+      "price": 122,
+      "type": "lunch",
+      "ratings": [1,2,3,4,5],
+      "img": "https://i.ibb.co/LP5z8rk/lunch5.png"
+    },
+    {
+      "id": "12",
+      "name": "Healthy Meal Plan",
+      "title": "“A food that was dipped in butter and coated with spices before being cooked in a hot pan, resulting in a blackened appearance”",
+      "price": 150,
+      "type": "lunch",
+      "ratings": [1,2,3,4],
+      "img": "https://i.ibb.co/Y0c1rw7/lunch6.png"
+    },
+    {
+      "id": "13",
+      "name": "Salman With Grapefruit and Lentil",
+      "title": "“Food that is briefly fried in a small amount of fat and then is slowly stewed in a covered pot. Results in a seared, crispy exterior coupled with a tender interior texture.”",
+      "price": 165,
+      "type": "dinner",
+      "ratings": [1,2,3],
+      "img": " https://i.ibb.co/8xbHsH6/dinner1.png"
+    },
+    {
+      "id": "14",
+      "name": "Lemony Salman Piccata",
+      "title": "“A breaded food is one that was coated with a breadcrumb mixture or batter that is then baked or fried into a crispy outer layer.”",
+      "price": 126,
+      "type": "dinner",
+      "ratings": [1,2,3,4,5],
+      "img": "https://i.ibb.co/hXZhk6z/dinner2.png"
+    },
+    {
+      "id": "15",
+      "name": "Prok Tendreloin Polaf",
+      "title": "“A food cooked with intense radiant heat, as in an oven or on a grill. Often results in a darkened appearance and crispy texture.”",
+      "price": 188,
+      "type": "dinner",
+      "ratings": [1,2,3,4],
+      "img": "https://i.ibb.co/crrN7pt/dinner3.png"
+    },
+    {
+      "id": "16",
+      "name": "French Fries with cheese",
+      "title": "“A caramelized food is one that has been cooked slowly until it is browned and becomes sweeter in taste.”",
+      "price": 125,
+      "type": "dinner",
+      "ratings": [1,2,3,4],
+      "img": "https://i.ibb.co/LpyWCST/dinner4.png "
+    },
+    {
+      "id": "17",
+      "name": "Gartic Butter Baked Salman",
+      "title": "“ Food that is grilled, roasted, or broiled and gains a blackened exterior coupled with a smoky flavor.”",
+      "price": 195,
+      "type": "dinner",
+      "ratings": [1,2,3],
+      "img": "https://i.ibb.co/7kS2m8B/dinner5.png"
+    },
+    {
+      "id": "18",
+      "name": "Baked Chiken",
+      "title": "“A food that has been introduced to bacteria, yeast, or another microorganism to produce organic acids, alcohols, or gases. May result in a pungent, biting flavor.”",
+      "price": 95,
+      "type": "dinner",
+      "ratings": [1,2,3,4,5],
+      "img": "https://i.ibb.co/9wyJHjC/dinner6.png"
+    }
+]

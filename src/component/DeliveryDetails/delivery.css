@@ -1,0 +1,21 @@
+.google-map{
+    height: 500px;
+    border-radius: 20px;
+}
+.delevery-details{
+    background-color: antiquewhite;
+    border-radius: 20px;
+    padding: 20px;
+}
+.address{
+    border-radius: 10px;
+}
+.address p{
+    font-size: 12px;
+}
+.address h6{
+    font-size: 14px;
+}
+.delivery-img{
+    width: 90px;
+}
